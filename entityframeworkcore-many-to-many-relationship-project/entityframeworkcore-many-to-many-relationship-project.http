@@ -1,0 +1,6 @@
+@entityframeworkcore_many_to_many_relationship_project_HostAddress = http://localhost:5168
+
+GET {{entityframeworkcore_many_to_many_relationship_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
