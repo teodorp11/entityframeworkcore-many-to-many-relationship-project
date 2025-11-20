@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YR4yHv6dSzHIgVJ1MaiSN8vJCt43CcWtnI6hcVmiAz8=",
+  "Source": "entityframeworkcore-many-to-many-relationship-project",
+  "BasePath": "_content/entityframeworkcore-many-to-many-relationship-project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
